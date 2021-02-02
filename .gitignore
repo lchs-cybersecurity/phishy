@@ -128,9 +128,11 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# vscode stuff
+# Editor/IDE meta
 .vscode/
+*.swp
 
 # config files & more
 targets.txt
 config.json
+*.csv
